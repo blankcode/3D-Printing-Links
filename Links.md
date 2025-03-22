@@ -50,6 +50,7 @@
 ## Web/Cloud Purpose Specific Applications
 - [Lithophane](https://3dp.rocks/lithophane/ ) (2D file into a 3D Printed Photograph)
 - [CookieCAD](https://app.cookiecad.com/ ) (2D file into a Cookie Cutter, Embosser, Stamp, Cake Topper or, Stencil)
+	  3D printed items used with food should be sealed with a food safe resin
 ## Automation
 - [3D QUE](https://www.3dque.com/) 
 ## CAD Software
