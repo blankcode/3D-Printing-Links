@@ -59,7 +59,6 @@
 - [OnShape](https://onshape.com/) (Advanced Browser Based CAD Software)
 ### CAD (Local)
 - [FreeCAD](https://www.freecad.org/)
-	- I use FreeCAD for all my modeling work. If you need help with it, these YouTubers are really good.
 	- Mangojelly Solutions: https://www.youtube.com/channel/UCUWhaOxsRk_5oPPq00_Y7Dw
 	- Stolz3D | CAD Academy | BASIC COURSE | FreeCAD Academy https://www.youtube.com/playlist?list=PL4eMS3gkRNXcvNnawxzuzRlFDa5CseoQV
 - [Blender](https://www.blender.org/) (There are plug-ins for precision modeling)
