@@ -1,3 +1,12 @@
+## Slicers
+### PC (Win/Mac/Linux)
+
+| Site                                                                                                     |             |                                                                    |
+| -------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------ |
+| https://www.orcaslicer.com/ (New Site)<br>https://github.com/SoftFever/OrcaSlicer/releases (GitHub Repo) | OrcaSlicer  | great for Bambu Lab & others, arc fitting, ironing, Klipper suppor |
+| https://www.prusa3d.com/                                                                                 | PrusaSlicer | multi-material, MMU support, customizable, supports most printers  |
+
+
 ## Model Repositories
 ### 3D Printing Model Databases (May have some paid models)
 | Site                                                                      | Info                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
